@@ -24,7 +24,7 @@ function sum(a, b) {
 }
 module.exports = sum;
 ```
-
+test
 Then, create a file named `sum.test.js`. This will contain our actual test:
 
 ```javascript
